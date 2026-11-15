@@ -1,0 +1,13 @@
+{
+  "name": "repo-harvest",
+  "version": "1.0.0",
+  "description": "Review an external GitHub repo and recommend what to bring into the current project. Results are cached per repo, so later runs only analyze what changed.",
+  "author": {
+    "name": "Matt Kruczek",
+    "url": "https://github.com/MCKRUZ"
+  },
+  "homepage": "https://github.com/MCKRUZ/repo-harvest",
+  "repository": "https://github.com/MCKRUZ/repo-harvest",
+  "license": "MIT",
+  "keywords": ["skill", "code-review", "architecture", "due-diligence", "github"]
+}

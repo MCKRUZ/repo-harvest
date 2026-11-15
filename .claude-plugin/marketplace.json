@@ -1,0 +1,15 @@
+{
+  "name": "repo-harvest",
+  "owner": {
+    "name": "Matt Kruczek",
+    "url": "https://github.com/MCKRUZ"
+  },
+  "plugins": [
+    {
+      "name": "repo-harvest",
+      "source": "./",
+      "description": "Review an external GitHub repo and recommend what to bring into the current project. Results are cached per repo, so later runs only analyze what changed.",
+      "version": "1.0.0"
+    }
+  ]
+}
